@@ -40,7 +40,7 @@ The **Password Generator** is a Python script that creates secure, random passwo
 ```plaintext
 Welcome to the PyPassword Generator!
 How many letters would you like in your password?
-12
+5
 How many symbols would you like?
 4
 How many numbers would you like?
